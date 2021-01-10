@@ -1,0 +1,29 @@
+{
+  "name": "hephaestusworld",
+  "version": "1.0.0",
+  "description": "My world",
+    "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hephaestusworld/hephaestusworld.git"
+  },
+  "keywords": [
+    "world",
+    "emulation",
+    "nodejs",
+    "blog"
+  ],
+  "author": "hephaestus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hephaestusworld/hephaestusworld/issues"
+  },
+  "homepage": "https://github.com/hephaestusworld/hephaestusworld#readme"
+}
